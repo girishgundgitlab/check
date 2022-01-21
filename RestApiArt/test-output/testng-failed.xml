@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestNGJSONPathValidations">
+      <class name="Validation.HamcrestValidation">
         <methods>
           <include name="tc1"/>
         </methods>
-      </class> <!-- TestNGJSONPathValidations -->
+      </class> <!-- Validation.HamcrestValidation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
